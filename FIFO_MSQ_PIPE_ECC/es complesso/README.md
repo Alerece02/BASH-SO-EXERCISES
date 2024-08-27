@@ -5,7 +5,7 @@ Implementare un sistema client-server che utilizzi diversi meccanismi di comunic
 
 ## Server
 
-## Creazione delle Risorse IPC:
+- Creazione delle Risorse IPC:
 Pipe: Il server deve creare una pipe anonima per ricevere messaggi da un processo figlio.
 FIFO: Il server deve creare una FIFO (chiamata /tmp/my_fifo) per ricevere messaggi da client esterni.
 Message Queue: Il server deve creare una message queue con una chiave specifica per ricevere richieste dai client.
