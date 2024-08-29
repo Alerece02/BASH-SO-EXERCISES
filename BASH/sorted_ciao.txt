@@ -1,0 +1,7 @@
+Another line without any issues.
+It is created to test the bash script.
+Let's see how the script performs.
+Sorting lines can be interesting.
+This is a simple text file.
+error: Another error line for testing.
+error: This line contains the word error.
